@@ -1,0 +1,17 @@
+# Variáveis de ambiente sensíveis
+.env
+
+# Arquivos temporários do Python e do VS Code
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Pastas de dados brutos e relatórios gerados
+reports/
+data/
+
+# Configurações do editor
+.vscode/
+.idea/
